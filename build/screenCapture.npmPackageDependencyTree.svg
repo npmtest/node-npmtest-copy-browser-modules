@@ -1,0 +1,46 @@
+<svg height="686" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="686" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">3 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ copy-browser-modules@4.0.0 </tspan>
+<tspan x="10" y="90">  ├─┬ fstream@1.0.11 </tspan>
+<tspan x="10" y="106">  │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="122">  │ ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="138">  │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="154">  │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="170">  │     ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="186">  │     ├── inflight@1.0.6 </tspan>
+<tspan x="10" y="202">  │     └── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="218">  ├─┬ fstream-npm@1.2.0 </tspan>
+<tspan x="10" y="234">  │ └─┬ fstream-ignore@1.0.5 </tspan>
+<tspan x="10" y="250">  │   └─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="266">  │     └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="282">  │       ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="298">  │       └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="314">  ├── iferr@0.1.5 </tspan>
+<tspan x="10" y="330">  ├─┬ mkdirp@0.5.1 </tspan>
+<tspan x="10" y="346">  │ └── minimist@0.0.8 </tspan>
+<tspan x="10" y="362">  ├─┬ read-package-tree@4.1.0 </tspan>
+<tspan x="10" y="378">  │ ├── debuglog@1.0.1 </tspan>
+<tspan x="10" y="394">  │ ├─┬ dezalgo@1.0.3 </tspan>
+<tspan x="10" y="410">  │ │ ├── asap@2.0.5 </tspan>
+<tspan x="10" y="426">  │ │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="442">  │ ├── once@1.4.0 </tspan>
+<tspan x="10" y="458">  │ ├─┬ read-package-json@2.0.5 </tspan>
+<tspan x="10" y="474">  │ │ ├─┬ json-parse-helpfulerror@1.0.3 </tspan>
+<tspan x="10" y="490">  │ │ │ └── jju@1.3.0 </tspan>
+<tspan x="10" y="506">  │ │ └─┬ normalize-package-data@2.3.8 </tspan>
+<tspan x="10" y="522">  │ │   ├── hosted-git-info@2.4.2 </tspan>
+<tspan x="10" y="538">  │ │   ├─┬ is-builtin-module@1.0.0 </tspan>
+<tspan x="10" y="554">  │ │   │ └── builtin-modules@1.1.1 </tspan>
+<tspan x="10" y="570">  │ │   ├── semver@5.3.0 </tspan>
+<tspan x="10" y="586">  │ │   └─┬ validate-npm-package-license@3.0.1 </tspan>
+<tspan x="10" y="602">  │ │     ├─┬ spdx-correct@1.0.2 </tspan>
+<tspan x="10" y="618">  │ │     │ └── spdx-license-ids@1.2.2 </tspan>
+<tspan x="10" y="634">  │ │     └── spdx-expression-parse@1.0.4 </tspan>
+<tspan x="10" y="650">  │ └── readdir-scoped-modules@1.0.2 </tspan>
+<tspan x="10" y="666">  └── rsvp@3.5.0</tspan>
+</text>
+</svg>
